@@ -1,0 +1,1 @@
+This repository is for homework done in between 4 September and 10 September 2022 during the Back-End Developer Course through Promineo Tech.
